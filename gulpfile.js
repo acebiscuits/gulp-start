@@ -13,3 +13,11 @@ function style() {
  
 
 exports.style = style;
+
+function watch(){
+
+    gulp.watch('app/scss/*.scss', style)
+}
+    
+
+exports.watch = watch;
