@@ -5,22 +5,88 @@
 .logo{
     margin: 1rem 0rem 0.9rem 25rem;
 }
-.podberem{
+.text{
     font-family: 'Inter';
-    color: #222222;
     font-style: normal;
+
+.willselect{
+    //font-family: 'Inter';
+    color: #222222;
+    //font-style: normal;
     font-weight: 900;
     font-weight: bolder; 
     font-size: 3.23rem;
     margin: 5rem 0 0 16.25rem;
 }
-.zapolni{
-    font-family: 'Inter';
+.fill{
+    //font-family: 'Inter';
     color: #222222;
-    font-style: normal;
+    //font-style: normal;
     font-weight: 400;
     font-size: 1.19rem;
     margin: 1.42rem 0 3.5rem 20.38rem;
+}
+.left1000{
+    //font-family: 'Inter';
+    color: #222222;
+    //font-style: normal;
+    margin: 0.56rem 0rem 0 3.24rem;
+    font-weight: 100;
+    font-size: 1.36rem;
+}
+.right50000{
+    //font-family: 'Inter';
+    color: #222222;
+    //font-style: normal;
+    font-weight: 100;
+    font-size: 1.34rem;
+    margin: 0.56rem 0rem 0 31.5rem;
+}
+.summ{
+    //font-family: 'Inter';
+    //font-style: normal;
+    font-weight: 100;
+    font-size: 1.058rem;
+    line-height: 1.9rem;
+    color: #222222;
+    margin: 0.9rem 0 0 3.36rem;
+}
+.left30k{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.57rem;
+    color: #222222;
+    margin: 0.0rem 0 0 0.0rem;    
+}
+.total{
+    //font-family: 'Inter';
+    //font-style: normal;
+    font-weight: 400;
+    font-size: 1.04rem;
+    text-align: right;
+    color: #222222;
+    margin: 1.3rem 0 0 3.3rem;
+}
+.right30k{
+    //font-family: 'Inter';
+    //font-style: normal;
+    font-weight: 900;
+    font-size: 1.58rem;
+    text-align: right;
+    color: #222222;
+    margin-top: 0.68rem;
+    margin-left: 0.1rem;
+}
+.security
+{
+    //font-family: 'Inter';
+    //font-style: normal;
+    font-weight: 300;
+    font-size: 0.79rem;
+    color: #747474;
+    margin: -0.9rem 0rem 0rem 12.77rem;
+}
 }
 
 
@@ -41,40 +107,7 @@
     cursor: pointer;
     margin: 3.6rem 3.5rem 0rem 4rem;
 }
-.different1000{
-    font-family: 'Inter';
-    color: #222222;
-    font-style: normal;
-    margin: 0.56rem 0rem 0 3.24rem;
-    font-weight: 100;
-    font-size: 1.36rem;
-}
-.different50000{
-    font-family: 'Inter';
-    color: #222222;
-    font-style: normal;
-    font-weight: 100;
-    font-size: 1.34rem;
-    margin: 0.56rem 0rem 0 31.5rem;
-}
-.summ1{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 100;
-    font-size: 1.058rem;
-    line-height: 1.9rem;
-    color: #222222;
-    margin: 0.9rem 0 0 3.36rem;
-}
-.summ30k{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 1.57rem;
-    color: #222222;
-    margin: 0.0rem 0 0 0.0rem;    
-}
-.border30k1{
+.border30k{
     background: #F8F8F8;
     border-radius: 0.08rem;
     padding: 0.43rem 0.75rem 0.4rem 0.6rem;
@@ -90,39 +123,12 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.2rem;
-    color: #222222;
+    color: #000000;
 }
-.summ2{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.04rem;
-    text-align: right;
-    color: #222222;
-    margin: 1.3rem 0 0 3.3rem;
-}
-.summ30k2{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 1.58rem;
-    text-align: right;
-    color: #222222;
-    margin-top: 0.68rem;
-    margin-left: 0.1rem;
-}
+
 .lock{
     margin: -1.3rem 0 0 16.4rem;
     font-size: 150%;
-}
-.bezopasnost
-{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 0.79rem;
-    color: #747474;
-    margin: -0.9rem 0rem 0rem 12.77rem;
 }
 .box_1_2
 {
@@ -204,7 +210,7 @@
     font-weight: 600;
     font-size: 2.325rem;
     color: #222222;
-    margin: 0.26rem 0 0 -1.4rem;
+    margin: 0.3rem 1.4rem 0 -1.4rem;
 }
 .garantii{
     font-family: 'Inter';
@@ -212,8 +218,460 @@
     color: #898989;
     font-weight: 300;
     font-size: 1.285rem;
-    margin: 2.82rem 49rem 0 -1.49rem;
-    line-height: 118%;
+    margin: 2.7rem 10rem 0 -1.45rem;
+    line-height: 123%;
     letter-spacing: 0.115rem;
-    
+}
+.technologii{
+    font-family: 'Inter';
+    font-style: normal;
+    color: #222222;
+    font-weight: 100;
+    font-size: 1.184rem;
+    margin: 1.37rem 6rem 0 -1.45rem;
+    line-height: 124%;
+}
+.mainbutton2{
+    //background: linear-gradient(180deg, #FFDA1D 0%, #FBD307 100%);
+    //background-color: #FFDA1D;
+    width: 18.6rem;
+    height: 4.3rem;
+    border-radius: 0.3125rem;
+    margin: 5.305rem 0rem 0 -0.75rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #000000;
+}
+.lock2{
+    margin: 5.3rem 0 0 -0.35rem;
+    font-size: 150%;
+}
+.bezopasnost2
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.79rem;
+    color: #747474;
+    margin: -1.25rem 0rem 1.25rem 0.8rem;
+}
+.box_1_3{
+    box-sizing: border-box;
+    margin: 5.64rem 1.8rem 0rem -1.8rem;
+    background: #F6F7F8;
+    border: 0.09rem solid #D9D9D9;
+    border-radius: 0.3125rem;
+    width: 26.5rem;
+    height: 27rem;
+}
+.man{
+    margin: -31.2rem -16.8rem 31.2rem 16.8rem;
+}
+.min10{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.2rem;
+    color: #000000;
+    margin: 2.6rem 0 0 2.6rem;
+    letter-spacing: 0.02rem;
+}
+.wait{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.05rem;
+    color: #000000;
+    margin: 0.45rem 13rem 0 2.55rem;
+}
+.zero{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.2rem;
+    color: #000000;
+    margin: 2.38rem 0 0 2.6rem;
+    letter-spacing: 0.02rem;
+}
+.stavka{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.05rem;
+    color: #000000;
+    margin: 0.45rem 13rem 0 2.55rem;
+}
+.ot99{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.2rem;
+    color: #000000;
+    margin: 2.35rem 0 0 2.6rem;
+    letter-spacing: 0.02rem;
+}
+.veroyatnost{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.05rem;
+    color: #000000;
+    margin: 0.45rem 10rem 0 2.55rem;
+}
+.side{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 2.4rem;
+    text-align: center;
+    color: #2C2C2C;
+    margin: 6.8rem 0 0 0.31rem;
+}
+.Map{
+    margin: 1.35rem 0 0 28.2rem;
+}
+.mainbutton3{
+    //background: linear-gradient(180deg, #FFDA1D 0%, #FBD307 100%);
+    width: 18.6rem;
+    height: 4.3rem;
+    border-radius: 0.3125rem;
+    margin: -0.18rem 0rem 0 27.15rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #000000;
+}
+.lock3{
+    margin: -1.45rem 0 1.45rem 55.35rem;
+    font-size: 150%;
+}
+.bezopasnost3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.79rem;
+    color: #747474;
+    margin: -2.7rem 0rem 2.7rem 56.5rem;
+}
+.about_service{
+    margin: 0 0 0 0;
+}
+.service{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 2.3rem;
+    text-align: center;
+    color: #000000;
+    margin: 5.75rem 0 0 0.3rem;
+}
+.trebovaniya{
+.tr1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.03rem;
+    color: #666666;
+    margin: 3.19rem 0 0 25.2rem;
+}
+.tr2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.045rem;
+    color: #000000;
+    margin: -0.8rem 65rem 1rem 25.2rem;
+    line-height: 165%;
+    letter-spacing: 0.001rem;
+}
+}
+.usloviya{
+.us1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.029rem;
+    color: #666666;
+    margin: 1.55rem 0 0 25.2rem;
+}
+.us2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.045rem;
+    color: #000000;
+    margin: -0.76rem 64rem 1rem 25.2rem;
+    line-height: 165%;
+    letter-spacing: 0.001rem;
+}
+}
+.information{
+.in1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.021rem;
+    color: #666666;
+    margin: -21rem 0 0rem 64.99rem;
+}
+.in2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.042rem;
+    color: #000000;
+    margin: -0.8rem 25rem 0rem 64.97rem;
+    line-height: 165%;
+    letter-spacing: 0.001rem;
+}
+}
+.PSK{
+.psk1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.021rem;
+    color: #666666;
+    margin: 1.55rem 0 0rem 64.85rem;
+    letter-spacing: 0.005rem;
+}
+.psk2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.045rem;
+    color: #000000;
+    margin: -1.5rem 0rem 0rem 82.9rem;
+    line-height: 165%;
+    letter-spacing: 0.001rem;
+}
+.psk22{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.045rem;
+    color: #000000;
+    margin: 0.03rem 0rem 0rem 64.8rem;
+    line-height: 165%;
+    letter-spacing: 0.001rem;
+}
+}
+.posledstviya{
+.po1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.035rem;
+    color: #666666;
+    margin: 2rem 0 0rem 25.2rem;
+}
+.po2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.043rem;
+    color: #000000;
+    margin: 0.3rem 25rem 0rem 25.2rem;
+    line-height: 165%;
+    letter-spacing: 0.003rem;
+}
+}
+.soglasheniya{
+.so1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.022rem;
+    color: #666666;
+    margin: 0.3rem 0 0rem 25.2rem;
+}
+.so2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.043rem;
+    color: #000000;
+    margin: 0.3rem 25rem 0rem 25.2rem;
+    line-height: 165%;
+    letter-spacing: 0.0045rem;
+}
+}
+.soglasie{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1.045rem;
+    color: #898989;
+    margin: 0.72rem 76rem 0rem 25.2rem;
+    text-decoration: underline;
+    line-height: 165%;
+}
+.mainbutton4{
+    //background: linear-gradient(180deg, #FFDA1D 0%, #FBD307 100%);
+    width: 17.2rem;
+    height: 4.0rem;
+    border-radius: 0.3125rem;
+    margin: -2.21rem 0rem 0 42.4rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #000000;
+}
+.lock4{
+    margin: -1.08rem 0 1.45rem 85.2rem;
+    font-size: 150%;
+}
+.bezopasnost4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.78rem;
+    color: #747474;
+    margin: -2.65rem 0rem 2.7rem 86.4rem;
+}
+.footer{
+    border-radius: 0.0625rem;
+    background: #FAFAFA;
+    margin: 2.2rem 0 0 0;
+}
+.monza1{
+    margin: 0rem 0 0 25.1rem;
+    padding-top: 2.7rem;
+}
+.podbor{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.92rem;
+    color: #000000;
+    margin: 0.41rem 0 0 25.15rem;
+}
+.questions{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.918rem;
+    text-align: right;
+    color: #666666;
+    margin: -6.35rem 24.9rem 0 0rem;
+}
+.link{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.918rem;
+    text-align: right;
+    color: #666666;
+    margin: 0 24.9rem 0 0;
+    text-decoration-line: underline;
+}
+.liniya{
+    border-bottom: 0.0993rem solid #DBDBDB;
+    width: 76.8rem;
+    margin: 4.55rem 0 0 25.2rem;
+}
+.vladelets{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.916rem;    
+    color: #000000;
+    margin: 0.15rem 45rem 0 25.36rem;
+}
+.OOO{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.914rem;    
+    color: #000000;
+    margin: -0.21rem 45rem 0 25.36rem;
+}
+.reestr{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.915rem;    
+    color: #000000;
+    margin: -0.23rem 38rem 0 25.36rem;
+}
+.mail{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.915rem;    
+    color: #000000;
+    margin: -0.0rem 38rem 0 25.36rem;
+}
+.tema{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.915rem;    
+    color: #000000;
+    margin: -0.0rem 38rem 0 25.36rem;
+}
+.free_service{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 65rem 0 25.36rem;
+}
+.allinformation{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 35rem 0 25.36rem;
+}
+.pull{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 40rem 0 25.36rem;
+}
+.material
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 38rem 0 25.36rem;
+    letter-spacing: 0.001rem;
+}
+.goal
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 38rem 0 25.36rem;
+}
+.login{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem;    
+    color: #000000;
+    margin: -0.2rem 40rem 0 25.36rem;
+    letter-spacing: 0.001rem;
+}
+.link2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 0.918rem; 
+    margin: -0.2rem 40rem 0 25.36rem;
+    text-decoration-line: underline;
+    color: #898989;
 }
